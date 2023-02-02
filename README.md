@@ -1,6 +1,6 @@
-# Warehouse Inventory Management
+#Fnt Food Ordering System
 
-Inventory management system using node js and mysql.
+
 
 ## Install and Run
 
